@@ -9,7 +9,7 @@ function Hero() {
       <button>Reserve a Table</button>
     </div>
     <div className="hero-image">
-      <img src="https://lambent-lokum-bb16c0.netlify.app/images/storefront.jpg" alt="Restaurant Image"/>
+      <img src="images/storefront.jpg" alt="Restaurant Image"/>
     </div>
   </section>
   );
