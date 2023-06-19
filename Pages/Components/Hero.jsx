@@ -9,7 +9,7 @@ function Hero() {
       <button>Reserve a Table</button>
     </div>
     <div className="hero-image">
-      <img src="RyanBatchelor/Mainstream/images/storefront.jpg" alt="Restaurant Image"/>
+      <img src="Mainstream/images/storefront.jpg" alt="Restaurant Image"/>
     </div>
   </section>
   );
